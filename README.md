@@ -9,6 +9,6 @@ Current status:
 
 ## Screenshot
 
-| Dashboard  | Shop |
+| Home  | Product Deetail | Cart Page | Section Page
 | ------------- | ------------- |
-| ![Screenshot_Dashboard](https://user-images.githubusercontent.com/7735662/83012674-1c110180-9ff2-11ea-9d44-ca319c2fd228.jpg)  | ![Screenshot_Products](https://user-images.githubusercontent.com/7735662/83012681-1e735b80-9ff2-11ea-974b-d93a0d379d11.jpg)  |
+| ![Screenshot_Home](https://user-images.githubusercontent.com/7735662/106473738-e70f5580-6482-11eb-8490-c2929cbb4d0b.png)  | ![Screenshot_Product_Detail](https://user-images.githubusercontent.com/7735662/106473734-e5de2880-6482-11eb-8511-13bf6b28cd6f.png)  |  ![CartPage](https://user-images.githubusercontent.com/7735662/106473730-e4146500-6482-11eb-9dec-47dfad456f95.png)  |  ![SectionPage](https://user-images.githubusercontent.com/7735662/106473724-e080de00-6482-11eb-952b-886d9f7273ca.png)
