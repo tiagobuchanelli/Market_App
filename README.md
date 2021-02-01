@@ -1,6 +1,6 @@
 # Market APP 
 
-Projeto MarketAPP
+Project MarketAPP
 - Development of the structure and layout with data in mockup format.
 - Not real project.
 
