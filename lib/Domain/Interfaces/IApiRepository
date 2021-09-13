@@ -1,0 +1,7 @@
+  abstract class IApiRepository<T> {
+  Future<T> adicionar(Map<String, dynamic> body, String token);
+  Future<T> atualizar(Map<String, dynamic> body, String token);
+  Future<T> buscarTodos(Map<String, dynamic> body, String token);
+  Future<T> buscarPorId(Map<String, dynamic> body, String token, String id);
+  Future<T> excluir(Map<String, dynamic> body, String token);
+}

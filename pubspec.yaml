@@ -3,7 +3,7 @@ description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -18,46 +18,49 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.9.8 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
-  carousel_slider: ^2.1.0
-  font_awesome_flutter: ^8.5.0
-  google_fonts: ^1.0.0
+  google_fonts:
   badges: ^1.1.1
-  getflutter: ^1.0.11
-  hive: ^1.4.1+1
-  hive_flutter: ^0.3.0+2
-  flutter_statusbarcolor: ^0.2.3
-  mobx: ^1.2.1+4
-  flutter_mobx: ^1.1.0+2
+  hive: ^2.0.4
+  path_provider: ^2.0.2
+  firebase_core: ^1.4.0
+  firebase_auth: ^3.0.1
+  dio: ^4.0.0
+  font_awesome_flutter: ^9.1.0
+  analyzer:
+  meta:
+  mobx: ^2.0.0
+  flutter_mobx: ^2.0.0
+  provider: ^6.0.0
+  get_it: ^7.2.0
+  carousel_slider: ^4.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^1.10.11
-  mobx_codegen: ^1.1.2
+  build_runner:
+  mobx_codegen: ^2.0.0
+  code_builder: ^4.1.0
+  mockito: ^5.0.15
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
   assets:
-    - images/
     - assets/facebook.png
     - assets/google.png
     - assets/acat.png
